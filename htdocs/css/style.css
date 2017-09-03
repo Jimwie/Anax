@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+}
+
+.content {
+    width: 80%;
+    margin: auto;
+}
+
+.content p {
+    width: 50%;
+    margin: auto;
+}
+
+.content img {
+    display: inline-block;
+}
+
+.content h1 {
+    /*margin-bottom: 1em;*/
+}
+
+.content h3 {
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 60%;
+}
